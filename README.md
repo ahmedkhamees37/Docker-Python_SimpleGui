@@ -17,7 +17,7 @@ This project is a simple GUI application built using **Python** and **Tkinter**.
 ```
 /app
 │── Dockerfile
-│── hello.py  # Main Python script for the GUI application
+│── gui.py  # Main Python script for the GUI application
 │── README.md # Project documentation
 ```
 
