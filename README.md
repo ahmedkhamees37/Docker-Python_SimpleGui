@@ -35,12 +35,12 @@ Ensure you have the following installed:
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone git@github.com:ahmedkhamees37/Docker-Python_SimpleGui.git
    cd your-repo-name
    ```
 2. **Run the application**
    ```sh
-   python hello.py
+   python gui.py
    ```
 
 ## 🐳 Running with Docker
